@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: #2E598E;
+  font-family: 'Arial', sans-serif;
+  text-align: left;
+}
+
+.card {
+  padding: 2em;
+}
+body{
+  background-color: #F3F7FA;
+}
